@@ -37,6 +37,10 @@ The integration tasks will be separate into several parts:
 * Limited ROS move_base for navigation
 * Bumper, IR and US sensors installed
 
+## 1.4 Issues
+* Quantity of prototype?  (ME team only order one piece)
+* Using LidarLite for slam_gmapping MAY perform badly
+
 # 2. Arms (without gripper and wrist)
 ## 2.1 Components Status & Readiness
 * DC motors(3540): ready
@@ -59,6 +63,9 @@ The integration tasks will be separate into several parts:
 * Joints control via ROS API
 * Trajectory speed control
 
+## 2.4 Issues
+* need to define final product spec for 2DOF or 2DOF arms
+* Need to consider how to install the arms on base?
 
 # 3. Body (TBD)
 
