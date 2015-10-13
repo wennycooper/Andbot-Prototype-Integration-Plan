@@ -9,6 +9,8 @@ The integration tasks will be separated into several parts:
 * Head
 
 # 1. Base
+![](https://github.com/wennycooper/Andbot-Prototype-Integration-Plan/blob/master/base.png)
+
 ## 1.1 Components Status & Readiness
 * Base frame: design completed, working on ordering process for manufacturing, should be delivered on 10/28 (by Richie)
 * 3D printer:   10/15
@@ -42,6 +44,8 @@ The integration tasks will be separated into several parts:
 * Using LidarLite for slam_gmapping MAY perform badly
 
 # 2. Arms (without gripper and wrist)
+![](https://github.com/wennycooper/Andbot-Prototype-Integration-Plan/blob/master/arms.png)
+
 ## 2.1 Components Status & Readiness
 * DC motors(3540): ready
 * L298N: ready
