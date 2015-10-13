@@ -47,7 +47,7 @@ The integration tasks will be separated into several parts:
 * L298N: ready
 * Connecting parts: 11/6 (need redesign for boundary sensors)
 * Gears:  10/23
-* Boundary hall sensors: x10*2*n, purchasing by Rex
+* Boundary hall sensors: x10 x2 xn, purchasing by Rex
 * MEGA2560: ready
 * ATtiny84: x10*n, purchasing by Rex
 
