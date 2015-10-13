@@ -8,15 +8,15 @@ The integration tasks will be separate into several parts:
 * Body
 * Head
 
-# Base
+# 1. Base
 ## Component Readiness
 ## Integration Schedule
 
 
-# Arms
+# 2. Arms
 
-# Body
+# 3. Body
 
-# Head
+# 4. Head
 
 
