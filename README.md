@@ -2,7 +2,7 @@
 
 # 0. INTRODUCTION
 This document describes the Andbot prototype integration plan.
-The integration tasks will be separate into several parts:
+The integration tasks will be separated into several parts:
 * Base
 * Arms
 * Body
@@ -10,7 +10,7 @@ The integration tasks will be separate into several parts:
 
 # 1. Base
 ## 1.1 Components Status & Readiness
-* base frame: design completed, working on ordering process for manufacturing, should be delivered on 10/28
+* Base frame: design completed, working on ordering process for manufacturing, should be delivered on 10/28 (Richie MAY have updated date)
 * 3D printer:   10/15
 * wheels: 10/17 delivered
 * DC motors: 10/19 delivered
