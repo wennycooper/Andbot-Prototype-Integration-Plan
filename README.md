@@ -64,7 +64,7 @@ The integration tasks will be separate into several parts:
 * Trajectory speed control
 
 ## 2.4 Issues
-* need to define final product spec for 2DOF or 2DOF arms
+* need to define final product spec for 2DOF or 4DOF arms
 * Need to consider how to install the arms on base?
 
 # 3. Body (TBD)
