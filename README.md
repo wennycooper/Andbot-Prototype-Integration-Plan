@@ -9,8 +9,8 @@ The integration tasks will be separate into several parts:
 * Head
 
 # Base
- # Component Readiness
- # Integration Schedule
+## Component Readiness
+## Integration Schedule
 
 
 # Arms
