@@ -37,10 +37,27 @@ The integration tasks will be separate into several parts:
 * Limited ROS move_base for navigation
 * Bumper, IR and US sensors installed
 
-# 2. Arms
+# 2. Arms (without gripper and wrist)
 ## 2.1 Components Status & Readiness
+* DC motors(3540): ready
+* L298N: ready
+* Connecting parts: 11/6 (need redesign for boundary sensors)
+* Gears:  10/23
+* Boundary hall sensors: x10*2*n, purchasing by Rex
+* MEGA2560: ready
+* ATtiny84: x10*n, purchasing by Rex
+
 ## 2.2 Integration Schedule
+* H/W Installation: 11/6 ~ 11/9
+* Boundary sensor for calibration: 11/9 ~ 11/13
+* PID position control for multiple joints: 11/16 ~ 11/20
+* ROS moveit!! for trajectory control: 11/23 ~ 11/27
+
 ## 2.3 Expected Delivery
+* two 4DOF-arms installed
+* Initial joint pose calibration can be worked
+* Joints control via ROS API
+* Trajectory speed control
 
 
 # 3. Body (TBD)
