@@ -8,7 +8,7 @@ The integration tasks will be separated into several parts:
 * Wrists & Grippers
 * Body
 * Head
-* Mockup
+* ME Design
 
 
 # 1. Base
@@ -58,7 +58,7 @@ The integration tasks will be separated into several parts:
 * MEGA2560: ready
 * ATtiny84: x10*n, purchasing by Rex
 
-## 2.2 Integration Schedules
+## 2.2 Tasks & Schedules
 * H/W Installation: 11/6 ~ 11/9
 * Boundary sensor for calibration: 11/9 ~ 11/13
 * PID position control for multiple joints: 11/16 ~ 11/20
@@ -80,5 +80,14 @@ The integration tasks will be separated into several parts:
 
 # 5. Head (TBD)
 
-# 6. Mockup (TBD)
+# 6. ME design
+
+## 6.1 Components Status & Readiness
+n/a
+
+## 6.2 Tasks & Schedules
+* EE + ME to define H/W 3D layout: 10/26 (Rex & Richie)
+* ME design: ~11/5 (ME design company)
+* CNC working samples: ~11/30 (ME design company)
+* Installation: 12/1
 
