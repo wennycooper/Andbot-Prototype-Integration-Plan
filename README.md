@@ -5,8 +5,10 @@ This document describes the Andbot prototype integration plan.
 The integration tasks will be separated into several parts:
 * Base
 * Arms
+* Wrists & Grippers
 * Body
 * Head
+* Mockup
 
 # 1. Base
 ![](https://github.com/wennycooper/Andbot-Prototype-Integration-Plan/blob/master/base.png)
@@ -71,8 +73,11 @@ The integration tasks will be separated into several parts:
 * need to define final product spec for 2DOF or 4DOF arms
 * Need to consider how to install the arms on base?
 
-# 3. Body (TBD)
+# 3. Wrists & Grippers (TBD)
 
-# 4. Head (TBD)
+# 4. Body (TBD)
 
+# 5. Head (TBD)
+
+# 6. Mockup
 
