@@ -17,12 +17,12 @@ n/a
 
 ## 1.2 Tasks & Schedules
 * EE + ME to define H/W 3D layout: 10/26 (Rex & Richie)
-* ME design: ~11/5 (ME design company)
-* CNC working samples: ~11/30 (ME design company)
+* ME design: ~11/5 (Andrew & ME design company)
+* CNC working samples: ~11/30 (Andrew & ME design company)
 * Installation: 12/1 ~ 12/4
 
 ## 1.3 Expected Deliveries
-* Four working samples 
+* Four working samples parts ready
 
 ## 1.4 Issues
 
@@ -45,7 +45,7 @@ n/a
 * LidarLite V2: ready
 * Servo for LidarLite v2: ready
 
-## 2.2 Integration Schedules
+## 2.2 Tasks & Schedules
 * 3D printing components: 10/16 ~
 * H/W Installation: 10/28 ~ 10/30
 * Software Integration for SLAM and gmapping: 10/30 ~ 11/13
