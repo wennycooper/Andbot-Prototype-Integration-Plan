@@ -43,7 +43,7 @@ The integration tasks will be separated into several parts:
 * Bumper, IR and US sensors installed
 
 ## 1.4 Issues
-* Quantity of prototype?  (ME team only order one piece)
+* Quantity of prototype?  ANS: N=4
 * Using LidarLite for slam_gmapping MAY perform badly
 
 # 2. Arms (without gripper and wrist)
@@ -71,17 +71,46 @@ The integration tasks will be separated into several parts:
 * Trajectory speed control
 
 ## 2.4 Issues
-* need to define final product spec for 2DOF or 4DOF arms
-* Need to consider how to install the arms on base?
 
 # 3. Wrists & Grippers (TBD)
 
-# 4. Body (TBD)
+# 4. Body
+## 4.1 Components Status & Readiness
+* Neck servo
+* LidarLite 
+* Servo for LidarLite 
+* IR sensor
+* Servos for IR sensor
 
-# 5. Head (TBD)
+## 4.2 Tasks & Schedules
+* ME(Richie) to define 3D H/W layout
+
+## 4.3 Expected Deliveries
+* Rotating neck
+* Rotating LidarLite
+* Rotating IR sensors for obstacle avoidance
+
+## 4.4 Issues
+
+# 5. Head
+## 5.1 Components Status & Readiness
+* Speakers
+* Gas sensors
+* Sound sensors: (Rex to purchase)
+* 6x6 LEDs: (Rex to purchase)
+* MEGA2560
+
+## 5.2 Tasks & Schedules
+* Sensors Installation
+* Sensors Tests
+
+## 5.3 Expected Deliveries
+* Sensors can work
+* LEDs can work
+
+## 5.4 Issues
 
 # 6. ME design
-
 ## 6.1 Components Status & Readiness
 n/a
 
@@ -89,5 +118,7 @@ n/a
 * EE + ME to define H/W 3D layout: 10/26 (Rex & Richie)
 * ME design: ~11/5 (ME design company)
 * CNC working samples: ~11/30 (ME design company)
-* Installation: 12/1
+* Installation: 12/1 ~ 12/4
 
+## 6.3 Expected Deliveries
+* Four working samples 
