@@ -10,6 +10,7 @@ The integration tasks will be separated into several parts:
 * Head
 * Mockup
 
+
 # 1. Base
 ![](https://github.com/wennycooper/Andbot-Prototype-Integration-Plan/blob/master/base.png)
 
@@ -79,5 +80,5 @@ The integration tasks will be separated into several parts:
 
 # 5. Head (TBD)
 
-# 6. Mockup
+# 6. Mockup (TBD)
 
