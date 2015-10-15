@@ -46,9 +46,8 @@ n/a
 * Servo for LidarLite v2: ready
 
 ## 2.2 Tasks & Schedules
-* 3D printing components: 10/16 ~
-* H/W Installation: 10/28 ~ 10/30
-* Software Integration for SLAM and gmapping: 10/30 ~ 11/13
+* H/W Installation: 12/01 ~ 12/03
+* Software Integration for SLAM and gmapping: 12/03 ~ 12/17
 
 ## 2.3 Expected Deliveries
 * A mobile robot base with two-wheels
@@ -60,8 +59,6 @@ n/a
 ## 2.4 Issues
 * Using LidarLite for slam_gmapping MAY perform badly
 
-
-
 # 3. Body
 ## 3.1 Components Status & Readiness
 * Neck servo
@@ -71,7 +68,9 @@ n/a
 * Servos for IR sensor
 
 ## 3.2 Tasks & Schedules
-* ME(Richie) to define 3D H/W layout
+* ME(Richie) to define 3D H/W layout: 10/26 
+* Installation: 12/03 ~ 12/07
+* Softwate Integration & testing: 12/07 ~ 12/11
 
 ## 3.3 Expected Deliveries
 * Rotating neck
@@ -94,10 +93,10 @@ n/a
 * ATtiny84: x10*n, purchasing by Rex
 
 ## 4.2 Tasks & Schedules
-* H/W Installation: 11/6 ~ 11/9
-* Boundary sensor for calibration: 11/9 ~ 11/13
-* PID position control for multiple joints: 11/16 ~ 11/20
-* ROS moveit!! for trajectory control: 11/23 ~ 11/27
+* H/W Installation: 12/07 ~ 12/9
+* Boundary sensor for calibration: 12/09 ~ 12/15
+* PID position control for multiple joints: 12/15 ~ 12/18
+* ROS moveit!! for trajectory control: 12/18 ~ 12/25
 
 ## 4.3 Expected Deliveries
 * two 4DOF-arms installed
@@ -116,8 +115,8 @@ n/a
 * MEGA2560
 
 ## 5.2 Tasks & Schedules
-* Sensors Installation
-* Sensors Tests
+* Sensors Installation: 12/10 ~ 12/11
+* Sensors Tests: 12/14 ~ 12/15
 
 ## 5.3 Expected Deliveries
 * Sensors can work
