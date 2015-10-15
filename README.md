@@ -38,7 +38,7 @@ n/a
 * Bumper sensor: ready
 * US sensor: ready
 * ROS board (XU3): ready
-* MEGA250 board: ready
+* MEGA2560 board: ready
 * Motor Driver L298N: ready
 * Battery: use existing Li battery
 * Charger board: use existing charger board
@@ -58,7 +58,6 @@ n/a
 * Bumper, IR and US sensors installed
 
 ## 2.4 Issues
-* Quantity of prototype?  ANS: N=4
 * Using LidarLite for slam_gmapping MAY perform badly
 
 
