@@ -84,7 +84,7 @@ n/a
 ![](https://github.com/wennycooper/Andbot-Prototype-Integration-Plan/blob/master/arms.png)
 
 ## 4.1 Components Status & Readiness
-* DC motors(3540): ready
+* DC motors(3530B): ready
 * L298N: ready
 * Connecting parts: 11/6 (need redesign for boundary sensors)
 * Gears:  10/23
